@@ -7,5 +7,5 @@ How to play:
 * Enter 1 for Paper
 * Enter 2 for Scissors
 4.Let the Battle Begin!
-The computer will make a random choice,and the winner will be declared.
+* The computer will make a random choice,and the winner will be declared.
 Ready to play?Let's go!
